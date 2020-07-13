@@ -1,3 +1,3 @@
 # beverageMaker
 
-Basic implementation of beverage maker with different ingredients.
+Basic implementation of a multiple outlets beverage maker.
